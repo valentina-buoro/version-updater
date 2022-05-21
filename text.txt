@@ -1,0 +1,2 @@
+pod 'Google-Mobile-Ads-SDK', '9.1.0'
+ 5
